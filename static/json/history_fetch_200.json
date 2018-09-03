@@ -1,0 +1,311 @@
+{
+  "search_history_list" : [ {
+    "request_id" : 32964,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32965,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32966,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32967,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32968,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32969,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32970,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32971,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32972,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32973,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32974,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32975,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32976,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32977,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32978,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32979,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32980,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32981,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32982,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32983,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32984,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  },{
+    "request_id" : 32985,
+    "start_timestamp" : "2017-08-02T14:39:50+09:00",
+    "end_timestamp" : "2017-08-02T14:49:50+09:00",
+    "status" : "完了",
+    "biobank_list" : [ "TMM" ],
+    "all_items" : [ {
+      "name" : "sex",
+      "condition_list" : [ {
+        "operator" : "eq",
+        "value" : "M"
+      } ],
+      "logical_operator" : "and"
+    } ]
+  } ]
+}

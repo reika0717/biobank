@@ -1,0 +1,9 @@
+{
+  "errors" : [ {
+    "resource" : "Search",
+    "field" : "$.all_items[0].name",
+    "code" : "E001",
+    "message" : "JSON形式不正です"
+  } ],
+  "message" : "パラメータが不足しています（エラー内容によって変わります）。"
+}
